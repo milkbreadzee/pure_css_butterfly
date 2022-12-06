@@ -3,7 +3,6 @@ body{
 }
 
 
-
 .l1{
     width: 250px;
     height: 250px;
@@ -13,7 +12,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#bcbcf2;
+    background-color:#b8001f; /*#bcbcf2;*/
     clip-path: polygon(50% 27% ,45.8% 30%, 50% 38% );
 }
 
@@ -26,7 +25,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#e6e6fa;
+    background-color:#eb0028; /*#e6e6fa;*/
     clip-path: polygon(40% 19%, 0 0,13.2% 20%,50% 38%);
 }
 
@@ -39,7 +38,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#a6a6ed;
+    background-color:#9f001b; /*#a6a6ed;*/
     clip-path: polygon(50% 38%, 13.2% 20%, 23% 35%,35% 40%);
 }
 
@@ -52,7 +51,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#e6e6fa;
+    background-color:#eb0028; /*#e6e6fa;*/
     clip-path: polygon(50% 38%,35% 40%, 20% 45%,37% 60%);
 }
 
@@ -65,7 +64,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#bcbcf2;
+    background-color:#b8001f; /*#bcbcf2;*/
     clip-path: polygon(50% 38%,37% 60%,43% 71% );
 }
 
@@ -78,7 +77,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#d1d1f6;
+    background-color:#eb0028; /*#d1d1f6;*/
     clip-path: polygon(50% 38%,44.6% 63%, 50% 67%);
 }
 .l7{
@@ -90,7 +89,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#a6a6ed;
+    background-color:#9f001b; /*#a6a6ed;*/
     clip-path: polygon(20% 45%,30% 74%,43% 71%,37% 60%);
 }
 
@@ -103,7 +102,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#a6a6ed;
+    background-color:#9f001b;
     clip-path: polygon(50% 27% ,54.2% 30%, 50% 38% );
 
 }
@@ -117,7 +116,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#e6e6fa;
+    background-color:#eb0028;
     clip-path: polygon(60% 19%, 100% 0,86.8% 20%,50% 38%);
 }
 
@@ -130,7 +129,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#a6a6ed;
+    background-color:#9f001b;
     clip-path: polygon(50% 38%, 86.8% 20%, 77% 35%,65% 40%);
   
 }
@@ -144,7 +143,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#e6e6fa;
+    background-color:#eb0028;
     clip-path: polygon(50% 38%,65% 40%, 80% 45%,63% 60%);
 }
 
@@ -157,7 +156,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#bcbcf2;
+    background-color:#b8001f;
     clip-path: polygon(50% 38%,63% 60%,57% 71% );
 }
 .r6{
@@ -169,7 +168,7 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#d1d1f6;
+    background-color:#9f001b;
     clip-path: polygon(50% 38%,55.4% 63%, 50% 67%);
 }
 
@@ -182,6 +181,6 @@ body{
     left: 0;
     top: 0;
     bottom: 0;
-    background-color:#a6a6ed;
+    background-color:#9f001b;
     clip-path: polygon(80% 45%,70% 74%,57% 71%,63% 60%);
 }
