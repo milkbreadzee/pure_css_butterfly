@@ -14,3 +14,31 @@
 }
 
 #9d001b
+
+.right{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #890017;
+    clip-path: polygon(60% 19%, 100% 0, 77% 35%, 65% 40%, 80% 45%, 77% 74%, 57% 71%, 55.4% 63%, 50% 67%,  50% 27%, 54% 30%,50% 38%);
+}
+
+.left{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #EB0028;
+    clip-path: polygon(40% 19%, 50% 38%, 46% 30%, 50% 27%, 50% 67%, 44.6% 63%, 43% 71%, 30% 74%, 20% 45%,35% 40%, 23% 35%, 0 0);
+
+
+}
