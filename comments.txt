@@ -1,0 +1,16 @@
+
+.twleft{
+    width: 250px;
+    height: 250px;
+    background-color: #EB0028;
+    clip-path: polygon(29% 20%, 38% 30%,71% 20%,100% 0%,89% 34%, 75% 40%, 38% 30%, 25% 40%, 11% 34%, 0 0);
+}
+
+.twright{
+    width: 250px;
+    height: 250px;
+    background-color: #EB0028;
+    clip-path: polygon(71% 20% , 62% 30%, 75% 40%, 89% 34%,100% 0%);
+}
+
+#9d001b

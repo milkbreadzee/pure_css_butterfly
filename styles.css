@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+
+.left{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #EB0028;
+    clip-path: polygon(33% 15%, 50% 35%, 46% 30%, 50% 25%, 50% 67%, 45% 63%, 35% 72%, 21% 77%, 19% 57%,35% 45%, 15% 35%, 0 0);
+
+
+}
+
+.right{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    margin: auto;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #890017;
+    clip-path: polygon(67% 15%, 100% 0, 85% 35%, 65% 45%, 81% 57%, 79% 77%, 65% 72%, 55% 63%, 50% 67%,  50% 25%, 54% 30%,50% 35%);
+}
